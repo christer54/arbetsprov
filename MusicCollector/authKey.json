@@ -1,0 +1,5 @@
+{
+    "urlToken": "https://accounts.spotify.com/api/token",
+    "clientId": "CLIENT_ID_HERE",
+    "clientSecret": "CLIENT_SECRET_HERE"
+}
